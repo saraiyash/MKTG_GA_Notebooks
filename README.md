@@ -8,3 +8,9 @@ Upgrade/update on Week 4 task by following the instructions in "Steps_fill_out_m
 
 # Week 6 - Web Scraper for CSR Data
 Designed a web scraper for a CSR website and extracted records from this website
+
+# Week 7 - imdb-scraper
+Designed a custom IMDb scraping tool to extract information from the website
+
+# Week 9 - LexisNexis Downloader
+Custom article downloader from library.tamu.edu's LexisNexis repository for required search terms
