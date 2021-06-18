@@ -5,3 +5,6 @@ Data manipulation and data cleaning task involving multiple Excel spreadsheets, 
 
 # Week 5 - ESG
 Upgrade/update on Week 4 task by following the instructions in "Steps_fill_out_missing_values.docx"
+
+# Week 6 - Web Scraper for CSR Data
+Designed a web scraper for a CSR website and extracted records from this website
