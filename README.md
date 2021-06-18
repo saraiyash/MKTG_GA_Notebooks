@@ -1,4 +1,5 @@
 # MKTG_GA_Notebooks
+This is a summary of all the IPYNB notebooks created to automate, manage, clean, and process data at the Department of Marketing at Texas A&M University.
 
 ## Week 4 - ESG
 Data manipulation and data cleaning task involving multiple Excel spreadsheets, largely extracting corresponding values from other sheets.
