@@ -21,3 +21,21 @@ Google Trends comparison of terms and downloading results
 
 ## Week 13 - TV Scores
 RT score and IMDb score extraction
+
+## Week 17 - Twitter Search Terms
+Extracting tweets for the given Search Terms using GetOldTweets / snscrape modules; used ProgressBar to check & report progress of the task.
+
+## Week 18 - JSON-combiner
+Combined sample JSONs to create a single xlsx/csv file that was to be used for MKTG Masters students' assignments
+
+## Week 19 - banned-twitter
+Extracted information for temporarily banned twitter accounts
+
+## Week 20 - Youtube Extracts
+Extracted information from Youtube for trailers of Netflix shows
+
+## Week 21 - Video Analysis
+Comparison of DeepFace image information extraction with AWS Rekognition
+
+## Week 23 - Fortune 500
+Extracting information for all Fortune 500 companies from Forbes website
