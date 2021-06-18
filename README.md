@@ -15,3 +15,9 @@ Designed a custom IMDb scraping tool to extract information from the website
 
 ## Week 9 - LexisNexis Downloader
 Custom article downloader from library.tamu.edu's LexisNexis repository for required search terms
+
+## Week 11 - Google Trends
+Google Trends comparison of terms and downloading results
+
+## Week 13 - TV Scores
+RT score and IMDb score extraction
